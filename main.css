@@ -1,0 +1,106 @@
+nav a {
+    font-family: 'HelveticaNeue';
+    text-decoration:none;
+    display:inline-block;
+    margin-right: 30px;
+    color:black
+
+    
+}
+
+
+
+.Galleryname h1 {
+font-size: 48px;
+font-family:'Asta Sans';
+margin-left: 1cm;
+}
+
+.Galleryname img {
+    width: 70%;
+    display: block;
+    margin: 40px;
+}
+
+
+.Gallery-description {
+    font-family:inter;
+    width: 496px;
+    font-size: 16px;
+    margin-left: 40px;
+}
+
+
+.questionlogo {
+    font-family: HelveticaNeue;
+text-align: center;
+font-size: xx-large;
+}
+
+.question–list {
+    display:grid;
+    grid-template-columns: 200px 1fr 1fr 1fr;
+    gap:10px;
+}
+.question–item {
+    background: hwb(58 45% 0%);
+    padding: 20px;
+    cursor: pointer
+}
+
+.question–list2 {
+display:grid;
+grid-template-columns: 200px 1fr 1fr 1fr;
+gap: 10px;
+}
+
+.question–item2 {
+    background:  hwb(177 18% 30%);
+    padding: 20px;
+    cursor: pointer
+}
+
+
+.question–list3 {
+display:grid;
+grid-template-columns: 200px 1fr 1fr 1fr;
+gap: 10px;
+}
+    
+.question–item3 {
+     background:  hwb(303 46% 0%);
+    padding: 30px;
+    cursor: pointer
+}
+
+
+
+
+.Step1 {
+    background: hwb(58 45% 0%);
+    display:grid;
+    font-size: 30px;
+    margin-left: 20px;
+    
+}
+
+.Step2 {
+    background: hwb(177 18% 30%);
+    display:grid;
+    font-size: 30px;
+    margin-left: 20px;
+    }
+
+.Step3 {
+    background:  hwb(303 46% 0%);
+   display:grid;
+   font-size: 30px;
+   margin-left: 20px;
+}
+
+
+
+
+Body {
+    font-family: inter;
+}
